@@ -27,7 +27,7 @@ Feel free to contribute to these projects or share your own Rust projects with t
 
 Our community has a comprehensive Rust roadmap that outlines the key milestones and goals we aim to achieve. This roadmap guides our efforts and helps us plan for the future of Rust development.
 
-- [View Detailed Rust Roadmap](link-to-detailed-roadmap.md)
+- [View Detailed Rust Roadmap](Rust-2-Months-Roadmap)
 
 To get a deeper understanding of our Rust roadmap and learn how you can contribute to the development of Rust within our community, please check out the [detailed Rust roadmap](link-to-detailed-roadmap.md).
 
