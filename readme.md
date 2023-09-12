@@ -21,15 +21,15 @@ Explore the exciting projects created by our community members:
 1. [Project A](link-to-repo): A brief description of what Project A is and its purpose.
 2. [Project B](link-to-repo): An introduction to Project B and its goals.
 
-Feel free to contribute to these projects or share your own Rust projects with the community.
+Feel free to contribute to these projects or share your Rust projects with the community.
 
 ## Roadmap
 
 Our community has a comprehensive Rust roadmap that outlines the key milestones and goals we aim to achieve. This roadmap guides our efforts and helps us plan for the future of Rust development.
 
-- [View Detailed Rust Roadmap](Rust-2-Months-Roadmap)
+- [View Detailed Rust Roadmap](Rust-2-Months-Roadmap/KGX-Rust-Community-2-Months-Roadmap.pdf)
 
-To get a deeper understanding of our Rust roadmap and learn how you can contribute to the development of Rust within our community, please check out the [detailed Rust roadmap](Rust-2-Months-Roadmap).
+To get a deeper understanding of our Rust roadmap and learn how you can contribute to the development of Rust within our community, please check out the [detailed Rust roadmap](Rust-2-Months-Roadmap/KGX-Rust-Community-2-Months-Roadmap.pdf)
 
 ## Join the Community
 
