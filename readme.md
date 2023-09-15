@@ -11,6 +11,7 @@ Welcome to the KGX Rust Community! This is a place for Rust enthusiasts to come 
 Here are some essential resources to get started with Rust:
 
 - [Rust Programming Language Official Website](https://www.rust-lang.org/): The official source for all things Rust, including documentation and tutorials.
+- [Rust for Impatients](https://www.youtube.com/watch?v=br3GIIQeefY): A 10-minute lightning talk taking you from zero to Rust! 
 - [Rust Documentation](https://doc.rust-lang.org/): Comprehensive documentation covering the Rust language, standard library, and more.
 - [Awesome Rust](https://github.com/rust-unofficial/awesome-rust): A curated list of Rust crates, tools, and learning resources.
 
