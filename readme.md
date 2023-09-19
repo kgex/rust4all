@@ -20,13 +20,13 @@ Here are some YouTube channels that provide excellent tutorials and content for 
 
 1. [The Rust Programming Language](https://www.youtube.com/c/TheRustProgrammingLanguage): Official YouTube channel for the Rust programming language, featuring tutorials and updates.
 
-2. [Traversy Media](https://www.youtube.com/c/TraversyMedia): Traversy Media often covers Rust-related topics and provides practical coding examples.
+2. [Tensor Programming](https://www.youtube.com/watch?v=EYqceb2AnkU&list=PLJbE2Yu2zumDF6BX6_RdPisRVHgzV02NW).
 
-3. [The Net Ninja](https://www.youtube.com/c/TheNetNinja): The Net Ninja offers a Rust programming course and covers various programming languages.
+3. [Let's get rusty](https://www.youtube.com/@letsgetrusty)
 
-4. [Code with Chris](https://www.youtube.com/c/CodeWithChris): Code with Chris has a Rust programming series for beginners, making it a great starting point.
+4. [Tech with Tim](https://www.youtube.com/watch?v=T_KrYLW4jw8&list=PLzMcBGfZo4-nyLTlSRBvo0zjSnCnqjHYQ)
 
-5. [Academind](https://www.youtube.com/c/Academind): Academind occasionally publishes Rust-related tutorials and in-depth explanations.
+5. [No Boilerplate](https://www.youtube.com/watch?v=br3GIIQeefY&t=72s)
 
 Feel free to explore these channels to find Rust tutorials, tips, and coding examples to enhance your learning experience.
 
