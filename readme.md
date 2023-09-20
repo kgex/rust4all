@@ -15,25 +15,73 @@ Here are some essential resources to get started with Rust:
 - [Rust Documentation](https://doc.rust-lang.org/): Comprehensive documentation covering the Rust language, standard library, and more.
 - [Awesome Rust](https://github.com/rust-unofficial/awesome-rust): A curated list of Rust crates, tools, and learning resources.
 
-## Projects
+## YouTube Channels for Learning Rust
 
-Explore the exciting projects created by our community members:
+Here are some YouTube channels that provide excellent tutorials and content for learning Rust:
 
-1. [Project A](link-to-repo): A brief description of what Project A is and its purpose.
-2. [Project B](link-to-repo): An introduction to Project B and its goals.
+1. [The Rust Programming Language](https://www.youtube.com/c/TheRustProgrammingLanguage): Official YouTube channel for the Rust programming language, featuring tutorials and updates.
 
-Feel free to contribute to these projects or share your Rust projects with the community.
+2. [Tensor Programming](https://www.youtube.com/watch?v=EYqceb2AnkU&list=PLJbE2Yu2zumDF6BX6_RdPisRVHgzV02NW).
 
-## Roadmap
+3. [Let's get rusty](https://www.youtube.com/@letsgetrusty)
 
-Our community has a comprehensive Rust roadmap that outlines the key milestones and goals we aim to achieve. This roadmap guides our efforts and helps us plan for the future of Rust development.
+4. [Tech with Tim](https://www.youtube.com/watch?v=T_KrYLW4jw8&list=PLzMcBGfZo4-nyLTlSRBvo0zjSnCnqjHYQ)
 
-- [View Detailed Rust Roadmap](rust4all/Rust-2-Months-Roadmap/KGX-Rust-Community-2-Months-Roadmap.pdf)
+5. [No Boilerplate](https://www.youtube.com/watch?v=br3GIIQeefY&t=72s)
 
-To get a deeper understanding of our Rust roadmap and learn how you can contribute to the development of Rust within our community, please check out the [detailed Rust roadmap](rust4all/Rust-2-Months-Roadmap/KGX-Rust-Community-2-Months-Roadmap.pdf)
+Feel free to explore these channels to find Rust tutorials, tips, and coding examples to enhance your learning experience.
+
+## Roadmap: From Rookie to Pro
+
+Follow this detailed weekly roadmap to become proficient in Rust in just two months:
+
+### Month 1: The Fundamentals
+
+#### Week 1-2: Getting Started
+
+- **Day 1-2:**
+   Learn the basics of Rust syntax.
+  Set up your development environment.
+- **Day 3-4:**
+  Write your first Rust program.
+  Explore variables and data types in Rust.
+
+#### Week 3-4: Dive into Rust
+
+- **Day 1-2:**
+  Study Rust ownership, borrowing, and lifetimes.
+  Practice with borrowing and references.
+- **Day 3-4:**
+  Work with control flow and conditional statements.
+  Create functions and understand function signatures.
+
+### Month 2: Building Proficiency
+
+#### Week 5-6: Advanced Topics
+
+- **Day 1-2:**
+  Explore Rust's standard library and common data structures.
+  Learn about modules and packages.
+- **Day 3-4:**
+  Dive into error handling with `Result` and `Option`.
+  Start working on a small Rust project.
+
+#### Week 7-8: Going Pro
+
+- **Day 1-2:**
+  Study concurrency and multithreading in Rust.
+  Understand Rust's ownership system and memory management.
+- **Day 3-4:**
+  Learn about Rust's package manager, Cargo.
+  Contribute to an open-source Rust project or create your own.
 
 ## Join the Community
 
 - **GitHub Repository:** [Link to Our Repository](link-to-repo)
 - **Discord Channel:** [Join Our Discord Server](link-to-discord)
 
+
+
+Please note that we have a [Code of Conduct](CODE_OF_CONDUCT.md) that we expect all community members to adhere to. It ensures a friendly and welcoming environment for everyone.
+
+Thank you for being part of the KGX Rust Community! We look forward to learning and growing together with you.
