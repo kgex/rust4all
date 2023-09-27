@@ -1,1 +1,3 @@
-You are tasked with creating an Ice Cream Ordering System in Rust. This system should allow customers to order ice cream flavors, keep track of orders, and calculate the total cost. This project aims to demonstrate your Rust programming skills, including ownership, functions, HashMaps, strings, structs, vectors, file operations, and threads
+You are tasked with creating an Ice Cream Ordering System in Rust. 
+This system should allow customers to order ice cream flavors, keep track of orders, and calculate the total cost. 
+This project aims to demonstrate your Rust programming skills, including ownership, functions, HashMaps, strings, structs, vectors, file operations, and threads
