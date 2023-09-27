@@ -1,0 +1,13 @@
+In Rust, async and await are keywords used in asynchronous programming to define and work with asynchronous code. Asynchronous code allows you to perform non-blocking operations, such as network requests or file I/O, without blocking the main thread of execution. This can lead to more efficient and responsive programs. To use async and await, you typically need to use a library like tokio or async-std that provides an asynchronous runtime.
+
+Here's a basic explanation of how async and await work:
+
+async Function:
+
+Use the async keyword to define an asynchronous function. An async function returns a Future, which represents a value that may not be available yet.
+Inside an async function, you can use the await keyword to pause the execution of the function until the Future completes.
+
+await Keyword:
+
+The await keyword is used to wait for the completion of a Future.
+When you await a Future, the function is paused, allowing other tasks to run concurrently. Once the Future completes, the function resumes.
